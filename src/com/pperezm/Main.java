@@ -1,10 +1,13 @@
 package com.pperezm;
 import java.util.*;
 
-/* Practica de conjuntos
-@author Pablo Arturo Perez Mata
-@mail pablo.arturo.perez@gmail.com
- */
+
+/*
+@author Pablo Arturo Pérez Mata
+@email pablo.arturo.perez@gmail.com
+@description Practica de conjuntos evaluadora de unión, intersección y sub conjunto
+*/
+
 public class Main {
 
     public static void main(String[] args) {
